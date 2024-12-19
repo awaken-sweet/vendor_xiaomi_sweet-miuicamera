@@ -4,4 +4,4 @@ product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
 system/lib64/libmicampostproc_client.so
-system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
+system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so;MODULE=vendor.xiaomi.hardware.campostproc@1.0-system
